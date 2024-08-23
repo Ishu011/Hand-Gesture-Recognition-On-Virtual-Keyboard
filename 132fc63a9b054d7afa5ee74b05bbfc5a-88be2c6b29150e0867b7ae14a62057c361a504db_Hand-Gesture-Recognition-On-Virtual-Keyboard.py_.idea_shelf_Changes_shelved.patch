@@ -1,0 +1,18 @@
+Index: .idea/misc.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/misc.xml b/.idea/misc.xml
+new file mode 100644
+--- /dev/null	(date 1724396949282)
++++ b/.idea/misc.xml	(date 1724396949282)
+@@ -0,0 +1,7 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<project version="4">
++  <component name="Black">
++    <option name="sdkName" value="Python 3.12 (Hand-Gesture-Recognition-On-Virtual-Keyboard.py)" />
++  </component>
++  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.12 (Hand-Gesture-Recognition-On-Virtual-Keyboard.py)" project-jdk-type="Python SDK" />
++</project>
+\ No newline at end of file
