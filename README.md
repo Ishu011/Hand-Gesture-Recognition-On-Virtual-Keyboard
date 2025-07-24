@@ -50,6 +50,12 @@ The virtual keyboard displays on your screen, and you can type using hand gestur
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
+## Watch the Demo
+
+[![Watch the demo](https://img.youtube.com/vi/QguZ9tngXW4/0.jpg)](https://www.youtube.com/watch?v=QguZ9tngXW4)
+
+
+
 ## Acknowledgments
 
 - [OpenCV](https://opencv.org/) for computer vision tools.
